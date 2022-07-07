@@ -1,0 +1,5 @@
+Angels & Demons,Dan Brown  ,138,$5
+War and Peace  ,Leo Tolstoy,149,$15
+Fear of Flying ,Erica Jong ,151,$10
+The Hite Report,Shere Hite ,153,$13
+Me Before You  ,Jojo Moyes ,154,$17 
